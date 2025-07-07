@@ -29,6 +29,6 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## Other for this project
 
-FE for admin [ADMIN](https://github.com/Kristie-vn/FEadmin)
+FE for [ADMIN](https://github.com/Kristie-vn/FEadmin)
 
 BE and DB for all [BE](https://github.com/Kristie-vn/BackendAndDB.git)
